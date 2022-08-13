@@ -1,0 +1,16 @@
+.container{
+    position: relative;
+    top: 200px;
+    left: 350px;
+
+}
+
+.container h1{
+    color: solid black;
+    margin-bottom: 20px;
+
+}
+.container button{
+    border-radius: 10px;
+    margin-left: 5px;
+}
